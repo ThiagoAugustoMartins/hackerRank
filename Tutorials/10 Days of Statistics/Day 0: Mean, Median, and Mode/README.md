@@ -15,7 +15,7 @@ The second line contains _N_ space-separated integers describing the array's ele
 ###Constraints
 
 - _10 <= N <= 2500_
-- _0<= xi <= 10^5, where _xi_ is _i^th_ the  element of the array.
+- _0<= xi <= 10^5, where xi_ is **_i^th_** the  element of the array.
 
 ###Output Format
 
