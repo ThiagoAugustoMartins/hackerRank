@@ -33,8 +33,8 @@ There are _n = 5_ tour groups, and the largest tour group contains _p3 = 4_ pass
 
 ###Sample Input 1
 
--5 1 2
--1 2 1 4 1
+- 5 1 2
+- 1 2 1 4 1
 
 ###Sample Output 1
 

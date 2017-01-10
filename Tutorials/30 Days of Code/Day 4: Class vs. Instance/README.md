@@ -8,9 +8,11 @@ Write a Person class with an instance variable,_age_ , and a constructor that ta
 
 - yearPasses() should increase the _age_ instance variable by _1_.
 - amIOld() should perform the following conditional actions:
-> If _age < 13_, print You are young..
-> If _age >= 13_ and _age < 18_, print You are a teenager..
-> Otherwise, print You are old..
+```
+If _age < 13_, print You are young..
+If _age >= 13_ and _age < 18_, print You are a teenager..
+Otherwise, print You are old..
+```
 
 To help you learn by example and complete this challenge, much of the code is provided for you, but you'll be writing everything in the future. The code that creates each instance of your Person class is in the main method. Don't worry if you don't understand it all quite yet!
 
@@ -33,26 +35,26 @@ Complete the method definitions provided in the editor so they meet the specific
 
 ###Sample Input
 
--4
---1
--10
--16
--18
+- 4
+- -1
+- 10
+- 16
+- 18
 
 ###Sample Output
 
--Age is not valid, setting age to 0.
--You are young.
--You are young.
+- Age is not valid, setting age to 0.
+- You are young.
+- You are young.
 
--You are young.
--You are a teenager.
+- You are young.
+- You are a teenager.
 
--You are a teenager.
--You are old.
+- You are a teenager.
+- You are old.
 
--You are old.
--You are old.
+- You are old.
+- You are old.
 
 ###Explanation
 
