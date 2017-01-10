@@ -54,6 +54,7 @@ To calculate the median, we need the elements of the array to be sorted in eithe
 - Median = (x4 + x5) / 2 = 89255 / 2 = 44627.5
 ```
 and print our result on a new line.
+
 **Mode:** 
 We can find the number of occurrences of all the elements in the array:
 ```
