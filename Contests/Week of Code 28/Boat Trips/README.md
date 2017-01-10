@@ -31,16 +31,16 @@ Alice has _m = 2_ boats and a maximum capacity of _c = 2_ passengers per boat. T
 
 There are _n = 5_ tour groups, and the largest tour group contains _p3 = 4_ passengers. Because Alice will be able to transport each group using _<= m_ boats per group, we print Yes.
 
-#Sample Input 1
+###Sample Input 1
 
 -5 1 2
 -1 2 1 4 1
 
-#Sample Output 1
+###Sample Output 1
 
 -No
 
-#Explanation 1
+###Explanation 1
 
 Alice has _m = 2_ boats and a maximum capacity of _c = 1_ passenger per boat. This means she can transport at most _m * c = 2_ passengers at a time.
 
